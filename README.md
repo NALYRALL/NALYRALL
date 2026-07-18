@@ -1,6 +1,9 @@
-Hola, I'm Himanshu Gupta👋
+<h1 align="center">Hello! I'm Himanshu 👋</h1>
 
-I enjoy turning ideas into software.
+<p align="center">
+Backend Developer • Java • System Design
+</p>
 
-Currently building projects, practicing Java & DSA, and learning how scalable systems are designed.
-Exploring Node.js, PostgreSQL, Docker, and System Design.
+<p align="center">
+<img src="images/okay.png" width="700">
+</p>
